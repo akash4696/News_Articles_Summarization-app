@@ -1,5 +1,5 @@
 ---
-title: {{Summarization_App}}
+title: {Summarization_App}
 emoji: {{😎}}
 colorFrom: {{blue}}
 colorTo: {{red}}
