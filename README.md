@@ -1,11 +1,10 @@
 ---
-
-title: Article_Summarisation_App
-emoji:🔥
-colorFrom: blue
-colorTo: red
-sdk: streamlit
-app file: app.py
+title: {{Summarization_App}}
+emoji: {{😎}}
+colorFrom: {{blue}}
+colorTo: {{red}}
+sdk: {{streamlit}}
+app_file: app.py
 pinned: false
 ---
 
