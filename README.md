@@ -1,6 +1,6 @@
 ---
 title: {Summarization_App}
-emoji: {{😎}}
+emoji: {😎}
 colorFrom: {{blue}}
 colorTo: {{red}}
 sdk: {{streamlit}}
